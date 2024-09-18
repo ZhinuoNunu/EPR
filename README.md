@@ -1,2 +1,2 @@
 # EPR
-This is the code for EPR
+This is the data for EPR
